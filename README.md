@@ -1,1 +1,1 @@
-# G-rsel-Programlama
+# Gorsel-Programlama
